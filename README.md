@@ -4,7 +4,7 @@ Also known as TheEvilSkely, Skelly and Tesk.
 
 - Codeberg: https://codeberg.org/TheEvilSkeleton
 - GitLab: https://gitlab.com/TheEvilSkeleton
-- \[matrix\]: `@theevilskeleton:linuxcafe.chat`
+- \[matrix\]: `@theevilskeleton:matrix.chat`
 
 ---
 
