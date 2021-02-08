@@ -26,7 +26,3 @@ Repository link: [TheEvilSkeleton/flatpaks](https://github.com/TheEvilSkeleton/f
 - [`com.github.reds.LogisimEvolution`](https://github.com/flathub/com.github.reds.LogisimEvolution)
 - [`com.valvesoftware.Steam.Utility.vkBasalt`](https://github.com/flathub/com.valvesoftware.Steam.Utility.vkBasalt)
 - [`com.microsoft.Edge`](https://github.com/flathub/com.microsoft.Edge)
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheEvilSkeleton)](https://github.com/ryo-ma/github-profile-trophy)
