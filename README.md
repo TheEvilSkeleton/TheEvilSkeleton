@@ -2,9 +2,12 @@
 
 Also known as TheEvilSkely, Skelly and Tesk.
 
+Personal website: https://theevilskeleton.codeberg.page
+
+Where to find me:
 - Codeberg: https://codeberg.org/TheEvilSkeleton
 - GitLab: https://gitlab.com/TheEvilSkeleton
-- \[matrix\]: `@theevilskeleton:matrix.org`
+- \[matrix\]: [`@theevilskeleton:matrix.org`](https://matrix.to/#/@theevilskeleton:matrix.org)
 
 ---
 
@@ -19,7 +22,7 @@ Repository link: [TheEvilSkeleton/flatpaks](https://github.com/TheEvilSkeleton/f
 ## Projects I maintain
 
 ### Gentoo
-- [src_prepare-overlay](https://gitlab.com/src_prepare/src_prepare-overlay)
+- [src_prepare-overlay](https://gitlab.com/src_prepare/src_prepare-overlay) (community-maintained)
 
 ### Flatpaks
 - [`com.github.Anuken.Mindustry`](https://github.com/flathub/com.github.Anuken.Mindustry)
