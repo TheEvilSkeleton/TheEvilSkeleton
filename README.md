@@ -28,4 +28,6 @@ Repository link: [TheEvilSkeleton/flatpaks](https://github.com/TheEvilSkeleton/f
 - [`com.github.Anuken.Mindustry`](https://github.com/flathub/com.github.Anuken.Mindustry)
 - [`com.github.reds.LogisimEvolution`](https://github.com/flathub/com.github.reds.LogisimEvolution)
 - [`com.valvesoftware.Steam.Utility.vkBasalt`](https://github.com/flathub/com.valvesoftware.Steam.Utility.vkBasalt)
+- [`com.github.Eloston.UngoogledChromium`](https://github.com/flathub/com.github.Eloston.UngoogledChromium)
+- [`com.brave.Browser`](https://github.com/flathub/com.brave.Browser)
 - [`com.microsoft.Edge`](https://github.com/flathub/com.microsoft.Edge)
