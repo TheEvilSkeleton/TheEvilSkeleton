@@ -4,6 +4,8 @@ Also known as TheEvilSkely, Skelly and Tesk.
 
 Personal website: https://theevilskeleton.codeberg.page
 
+Personal repositories: https://codeberg.org/TheEvilSkeleton
+
 Where to find me:
 - Codeberg: https://codeberg.org/TheEvilSkeleton
 - GitLab: https://gitlab.com/TheEvilSkeleton
