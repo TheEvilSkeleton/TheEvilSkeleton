@@ -10,6 +10,7 @@ Where to find me:
 - Codeberg: https://codeberg.org/TheEvilSkeleton
 - GitLab: https://gitlab.com/TheEvilSkeleton
 - \[matrix\]: [`@theevilskeleton:matrix.org`](https://matrix.to/#/@theevilskeleton:matrix.org)
+- Mastodon: <a rel="me" href="https://fosstodon.org/@TheEvilSkeleton"><code>@TheEvilSkeleton@fosstodon.org</code></a>
 
 ---
 
