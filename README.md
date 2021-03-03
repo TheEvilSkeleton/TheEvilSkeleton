@@ -10,7 +10,7 @@ Where to find me:
 - Codeberg: https://codeberg.org/TheEvilSkeleton
 - GitLab: https://gitlab.com/TheEvilSkeleton
 - \[matrix\]: [`@theevilskeleton:matrix.org`](https://matrix.to/#/@theevilskeleton:matrix.org)
-- Mastodon: <a rel="me" href="https://fosstodon.org/@TheEvilSkeleton"><code>@TheEvilSkeleton@fosstodon.org</code></a>
+- Mastodon: [`@TheEvilSkeleton@fosstodon.org`](https://fosstodon.org/@TheEvilSkeleton)
 
 ---
 
@@ -19,7 +19,6 @@ Where to find me:
 I have written a couple of Flatpak manifests but I am not planning on publishing them in Flathub anytime soon. If you want to maintain one of them, feel free to publish them in Flathub: Fork my repo (see below), choose the flatpak you want to maintain, and submit a merge request in the `flathub/new-pr` repo.
 
 Repository link: [TheEvilSkeleton/flatpaks](https://github.com/TheEvilSkeleton/flatpaks)
-
 ---
 
 ## Projects I maintain
