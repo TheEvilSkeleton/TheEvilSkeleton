@@ -24,9 +24,6 @@ Repository link: [TheEvilSkeleton/flatpaks](https://github.com/TheEvilSkeleton/f
 
 ## Projects I maintain
 
-### Gentoo
-- [src_prepare-overlay](https://gitlab.com/src_prepare/src_prepare-overlay) (community-maintained)
-
 ### Flatpaks
 - [`com.github.Anuken.Mindustry`](https://github.com/flathub/com.github.Anuken.Mindustry)
 - [`com.github.reds.LogisimEvolution`](https://github.com/flathub/com.github.reds.LogisimEvolution)
