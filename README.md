@@ -2,7 +2,7 @@
 
 Also known as TheEvilSkely, Skelly and Tesk.
 
-Personal website: https://theevilskeleton.frama.io/
+Personal website: https://theevilskeleton.frama.io
 
 Personal repositories: https://codeberg.org/TheEvilSkeleton
 
