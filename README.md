@@ -24,7 +24,7 @@ Repository link: [TheEvilSkeleton/flatpaks](https://github.com/TheEvilSkeleton/f
 
 ## Projects I maintain
 
-### Flatpaks
+### Flatpak Packages
 - [`com.github.Anuken.Mindustry`](https://github.com/flathub/com.github.Anuken.Mindustry)
 - [`com.github.reds.LogisimEvolution`](https://github.com/flathub/com.github.reds.LogisimEvolution)
 - [`com.valvesoftware.Steam.Utility.vkBasalt`](https://github.com/flathub/com.valvesoftware.Steam.Utility.vkBasalt)
