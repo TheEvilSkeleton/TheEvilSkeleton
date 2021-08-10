@@ -2,9 +2,9 @@
 
 Also known as TheEvilSkely, Skelly and Tesk.
 
-Personal website: https://theevilskeleton.frama.io
+Personal website: https://theevilskeleton.gitlab.io
 
-Personal repositories: https://codeberg.org/TheEvilSkeleton
+Personal repositories: https://gitlab.com/TheEvilSkeleton
 
 Where to find me:
 - Codeberg: https://codeberg.org/TheEvilSkeleton
