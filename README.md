@@ -9,7 +9,7 @@ Personal repositories: https://gitlab.com/TheEvilSkeleton
 Where to find me:
 - Codeberg: https://codeberg.org/TheEvilSkeleton
 - GitLab: https://gitlab.com/TheEvilSkeleton
-- \[matrix\]: [`@theevilskeleton:mozilla.org`](https://matrix.to/#/@theevilskeleton:mozilla.org)
+- \[matrix\]: [`@theevilskeleton:fedora.im`](https://matrix.to/#/@theevilskeleton:fedora.im)
 - Mastodon: [`@TheEvilSkeleton@fosstodon.org`](https://fosstodon.org/@TheEvilSkeleton)
 
 ---
