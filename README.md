@@ -32,3 +32,4 @@ Repository link: [TheEvilSkeleton/flatpaks](https://github.com/TheEvilSkeleton/f
 - [`com.brave.Browser`](https://github.com/flathub/com.brave.Browser)
 - [`com.microsoft.Edge`](https://github.com/flathub/com.microsoft.Edge)
 - [`org.bluesabre.MenuLibre`](https://github.com/flathub/org.bluesabre.MenuLibre)
+- [`org.tenacityaudio.Tenacity`](https://github.com/tenacityteam/tenacity-flatpak-nightly)
