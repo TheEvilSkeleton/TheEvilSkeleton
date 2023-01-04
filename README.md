@@ -14,15 +14,14 @@ Where to find me:
 
 ---
 
-## Projects for others to maintain
+## Projects I work on
 
-I have written a couple of Flatpak manifests but I am not planning on publishing them in Flathub anytime soon. If you want to maintain one of them, feel free to publish them in Flathub: Fork my repo (see below), choose the flatpak you want to maintain, and submit a merge request in the `flathub/new-pr` repo.
+### Personal Projects
+- [vkbasalt-cli](https://gitlab.com/TheEvilSkeleton/vkbasalt-cli)
 
-Repository link: [TheEvilSkeleton/flatpaks](https://github.com/TheEvilSkeleton/flatpaks)
-
----
-
-## Projects I maintain
+### Collaborative projects
+- [Bottles](https://github.com/bottlesdevs/Bottles)
+- [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler)
 
 ### Flatpak Packages
 - [`com.github.Anuken.Mindustry`](https://github.com/flathub/com.github.Anuken.Mindustry)
@@ -33,3 +32,11 @@ Repository link: [TheEvilSkeleton/flatpaks](https://github.com/TheEvilSkeleton/f
 - [`com.microsoft.Edge`](https://github.com/flathub/com.microsoft.Edge)
 - [`org.bluesabre.MenuLibre`](https://github.com/flathub/org.bluesabre.MenuLibre)
 - [`org.tenacityaudio.Tenacity`](https://github.com/tenacityteam/tenacity-flatpak-nightly)
+
+---
+
+## Projects for others to maintain
+
+I have written a couple of Flatpak manifests but I am not planning on publishing them in Flathub anytime soon. If you want to maintain one of them, feel free to publish them in Flathub: Fork my repo (see below), choose the flatpak you want to maintain, and submit a merge request in the `flathub/new-pr` repo.
+
+Repository link: [TheEvilSkeleton/flatpaks](https://github.com/TheEvilSkeleton/flatpaks)
