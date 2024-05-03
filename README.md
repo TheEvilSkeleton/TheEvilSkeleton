@@ -1,6 +1,6 @@
 # TheEvilSkeleton
 
-Also known as TheEvilSkely, Skelly and Tesk.
+Also known as TheEvilSkelly, Skelly and Tesk.
 
 Personal website: https://tesk.page
 
