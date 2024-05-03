@@ -2,7 +2,7 @@
 
 Also known as TheEvilSkely, Skelly and Tesk.
 
-Personal website: https://theevilskeleton.gitlab.io
+Personal website: https://tesk.page
 
 Personal repositories: https://gitlab.com/TheEvilSkeleton
 
